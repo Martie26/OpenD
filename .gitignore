@@ -8,8 +8,8 @@
 **/.DS_Store
 
 # dfx temporary files
-.dfx/
+# .dfx/
 
 # frontend code
-node_modules/
-dist/
+# node_modules/
+# dist/
